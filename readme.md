@@ -1,4 +1,4 @@
-### Pi-Day
+### Pi-Day: Bake some PiE
 
 ```echo "scale=10000;4*a(1)" | bc -l ```  
 
