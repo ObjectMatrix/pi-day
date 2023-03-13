@@ -22,17 +22,12 @@ sudo powermetrics --samplers smc |grep -i "CPU die temperature"
 
 
 
-### Readmore:, The Ramanujan formula for pi:  
+### Readmore: The Ramanujan formula for pi:  
 
 pi ≈ 1 / (2√2 / 9801) ∑<sub>k=0</sub>^∞ (4k)!(1103+26390k) / (k!)^4 396^(4k)
 where ∑ represents the sum from k=0 to infinity.
 
-This will display the text "The Ramanujan formula for pi is:" followed by the formula for pi using the Ramanujan series. The formula is written using HTML subscripts to display the subscripts, and the summation symbol is represented using Unicode.
+- This will display the text "The Ramanujan formula for pi is:" followed by the formula for pi using the Ramanujan series. The formula is written using HTML subscripts to display the subscripts, and the summation symbol is represented using Unicode.  
 
-This markdown syntax will generate the following output:
+[Ramanujan–Sato series](https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series)
 
-The Ramanujan formula for pi is:
-
-pi ≈ 1 / (2√2 / 9801) ∑<sub>k=0</sub>^∞ (4k)!(1103+26390k) / (k!)^4 396^(4k)
-
-where ∑ represents the sum from k=0 to infinity.
